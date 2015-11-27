@@ -1,0 +1,186 @@
+box2d.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+Back
+  rotate: false
+  xy: 2, 2
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: 8
+Button_08_Normal_Shoot
+  rotate: false
+  xy: 415, 238
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+Button_08_Normal_Virgin
+  rotate: false
+  xy: 462, 2
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+Button_08_Pressed_Shoot
+  rotate: false
+  xy: 592, 2
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+Button_08_Pressed_Virgin
+  rotate: false
+  xy: 545, 238
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+Joystick
+  rotate: false
+  xy: 722, 2
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: 8
+Platform
+  rotate: false
+  xy: 654, 218
+  size: 96, 16
+  orig: 96, 16
+  offset: 0, 0
+  index: -1
+banana_tiled
+  rotate: false
+  xy: 462, 132
+  size: 132, 70
+  orig: 132, 70
+  offset: 0, 0
+  index: -1
+birdanimation
+  rotate: false
+  xy: 805, 132
+  size: 102, 24
+  orig: 102, 24
+  offset: 0, 0
+  index: -1
+blast
+  rotate: false
+  xy: 752, 166
+  size: 144, 24
+  orig: 144, 24
+  offset: 0, 0
+  index: -1
+box
+  rotate: false
+  xy: 752, 132
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+bullet
+  rotate: false
+  xy: 260, 204
+  size: 128, 32
+  orig: 128, 32
+  offset: 0, 0
+  index: -1
+buttonrefresh
+  rotate: false
+  xy: 675, 236
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+enemy
+  rotate: false
+  xy: 852, 2
+  size: 72, 128
+  orig: 72, 128
+  offset: 0, 0
+  index: -1
+face_box
+  rotate: false
+  xy: 596, 132
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+face_box_tiled
+  rotate: false
+  xy: 390, 204
+  size: 64, 32
+  orig: 64, 32
+  offset: 0, 0
+  index: -1
+face_circle_tiled
+  rotate: false
+  xy: 456, 204
+  size: 64, 32
+  orig: 64, 32
+  offset: 0, 0
+  index: -1
+face_hexagon_tiled
+  rotate: false
+  xy: 522, 204
+  size: 64, 32
+  orig: 64, 32
+  offset: 0, 0
+  index: -1
+face_triangle_tiled
+  rotate: false
+  xy: 588, 204
+  size: 64, 32
+  orig: 64, 32
+  offset: 0, 0
+  index: -1
+ground
+  rotate: false
+  xy: 2, 260
+  size: 336, 112
+  orig: 336, 112
+  offset: 0, 0
+  index: -1
+helicopter_tiled
+  rotate: false
+  xy: 654, 132
+  size: 96, 84
+  orig: 96, 84
+  offset: 0, 0
+  index: -1
+player
+  rotate: false
+  xy: 805, 192
+  size: 72, 128
+  orig: 72, 128
+  offset: 0, 0
+  index: -1
+radar
+  rotate: false
+  xy: 260, 2
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+reddot
+  rotate: false
+  xy: 260, 238
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+tank
+  rotate: false
+  xy: 340, 238
+  size: 73, 132
+  orig: 73, 132
+  offset: 0, 0
+  index: -1
+tiles
+  rotate: false
+  xy: 278, 238
+  size: 36, 6
+  orig: 36, 6
+  offset: 0, 0
+  index: -1
